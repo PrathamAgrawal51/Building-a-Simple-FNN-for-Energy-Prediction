@@ -18,4 +18,4 @@ A **Feedforward Neural Network (FNN)** designed to predict energy consumption ba
 
 1️⃣ Clone the repository:  
 ```sh
-https://github.com/PrathamAgrawal51/Building-a-Simple-FNN-for-Energy-Prediction.git
+git clone https://github.com/PrathamAgrawal51/Building-a-Simple-FNN-for-Energy-Prediction.git
